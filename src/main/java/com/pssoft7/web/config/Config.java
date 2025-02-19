@@ -31,4 +31,5 @@ public class Config implements WebMvcConfigurer {
         lci.setParamName("lang");
         return lci;
     }
+
 }
